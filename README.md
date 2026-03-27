@@ -162,3 +162,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## Conclusiones
 
+El análisis permitió identificar que el comportamiento de los clientes está principalmente determinado por su actividad de vuelo, mientras que variables demográficas como el nivel educativo o el salario no presentan una relación significativa.
+
+Además, se detectó la presencia de valores atípicos y distribuciones no normales, lo que resalta la importancia de un adecuado proceso de limpieza y exploración antes del análisis.
