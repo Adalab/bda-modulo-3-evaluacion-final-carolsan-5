@@ -1,6 +1,6 @@
-# Evaluación final de Módulo
+# Evaluación final de Módulo 3: Data Analysis
 
-## Análisis de Datos – Customer Loyalty & Flight Activity
+## Customer Loyalty & Flight Activity
 
 Este repositorio forma parte de una evaluación práctica en la que se realiza un análisis completo de datos siguiendo distintas fases del proceso analítico.
 
@@ -9,14 +9,14 @@ Este repositorio forma parte de una evaluación práctica en la que se realiza u
 ## Objetivos:
 
 * Comprender la estructura de los datos
-* Realizar limpieza y preparación (*data cleaning*, *gestión de nulos*)
+* Realizar limpieza y preparación (*gestión de nulos*)
 * Analizar variables numéricas y categóricas
 * Evaluar relaciones entre variables
 * Visualizar resultados de forma clara
 
 ---
 
-## Estructura del proyecto
+## Estructura del repositorio
 
 ```
 ├── files_limpios/
@@ -39,7 +39,7 @@ Este repositorio forma parte de una evaluación práctica en la que se realiza u
 
 ## Metodología
 
-El proyecto se divide en 4 fases principales:
+La evaluación se divide en 4 fases principales:
 
 ---
 
@@ -116,11 +116,11 @@ files_limpios/
 
 ## Cómo ejecutar los notebooks
 
-Para poder ejecutar correctamente los notebooks de este proyecto, sigue los siguientes pasos:
+Para poder ejecutar correctamente los notebooks de este repositorio, sigue los siguientes pasos:
 
 ### 1. Clonar o descargar el repositorio
 
-Asegúrate de tener todos los archivos del proyecto, incluyendo:
+Asegúrate de tener todos los archivos del repositorio, incluyendo:
 
 * archivos `.ipynb`
 * archivos `.csv`
@@ -130,7 +130,7 @@ Asegúrate de tener todos los archivos del proyecto, incluyendo:
 
 ### 2. Verificar la estructura de carpetas
 
-Es importante mantener la estructura original del proyecto, ya que los notebooks cargan los archivos `.csv` desde rutas relativas.
+Es importante mantener la estructura original del repositorio, ya que los notebooks cargan los archivos `.csv` desde rutas relativas.
 
 ---
 
